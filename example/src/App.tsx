@@ -1,6 +1,6 @@
 import React from 'react';
 import { Button, SafeAreaView } from 'react-native';
-import RNXPrinter from 'react-native-xprinter';
+import RNXPrinter from '@lampn9397/react-native-xprinter';
 
 const App = () => {
   const onPress = React.useCallback(async () => {

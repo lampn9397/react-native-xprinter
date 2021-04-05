@@ -1,7 +1,7 @@
 {
-  "name": "react-native-xprinter",
+  "name": "@lampn9397/react-native-xprinter",
   "version": "0.5.0",
-  "description": "react-native-xprinter is the React Native implementation of Xprinter SDK.",
+  "description": "@lampn9397/react-native-xprinter is the React Native implementation of Xprinter SDK.",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
   "types": "lib/typescript/src/index.d.ts",
@@ -34,13 +34,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/wiicamp/react-native-xprinter",
+  "repository": "https://github.com/lampn9397/react-native-xprinter",
   "author": "Phan Ngoc Lam <lampn9397@gmail.com> (https://github.com/lampn9397)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wiicamp/react-native-xprinter/issues"
+    "url": "https://github.com/lampn9397/react-native-xprinter/issues"
   },
-  "homepage": "https://github.com/wiicamp/react-native-xprinter#readme",
+  "homepage": "https://github.com/lampn9397/react-native-xprinter#readme",
   "devDependencies": {
     "@commitlint/config-conventional": "^8.3.4",
     "@react-native-community/bob": "^0.16.2",

@@ -1,17 +1,17 @@
-# react-native-xprinter
+# @lampn9397/react-native-xprinter
 
-react-native-xprinter is the React Native implementation of Xprinter SDK.
+@lampn9397/react-native-xprinter is the React Native implementation of Xprinter SDK.
 
 ## Installation
 
 ```sh
-npm install react-native-xprinter
+npm install r@lampn9397/eact-native-xprinter
 ```
 
 ## Usage
 
 ```js
-import Xprinter from "react-native-xprinter";
+import Xprinter from "@lampn9397/react-native-xprinter";
 
 // ...
 
